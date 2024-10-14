@@ -6,3 +6,10 @@
 # TPs JEE - Traveaux Pratiques Java Entreprise Edition
 Dans ce Repo je partage les TPs de JEE de la faculté des sciences et techniques de Tanger de cycle d'ingénieur Logiciels et systemes intellignents "LSI" de Professeur ***Yasyn EL YUSUFI***
 
+## Dependencies 
+- [x] Tomcat v9.0
+  - [x] Tomcat admin port : 8005
+  - [x] HTTP/1.1 : 8081
+- [x] JSTL
+- [x] JDOM
+- [x] struts
