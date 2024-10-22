@@ -1,10 +1,10 @@
 # TP3
 
-start appache and Mysql from `XAMPP`
+1. start appache and Mysql from `XAMPP`
 
-crée une bdd avec le nom : **jee**
+2. crée une bdd avec le nom : **jee**
 
-crée une table **users** avec les colonnes ***login*** , ***password***
+3. crée une table **users** avec les colonnes ***login*** , ***password***
 
-ouvrir `http://localhost:8081/TP3/` 
+4. ouvrir `http://localhost:8081/TP3/` 
 
